@@ -1,2 +1,1 @@
-# MINI-PROJECT-1
-PYTHON ASSIGNMENT
+#day 2 subset problem
